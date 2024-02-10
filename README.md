@@ -1,6 +1,6 @@
 # Image and Pdf viewer
 
-A simple image and pdf viewermade using ReactJs,MongoDB.
+A simple image and pdf viewer made using ReactJs,MongoDB.
 
 Features
  ---
